@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cardoso-dev33">
-    <img src="https://img.shields.io/github/followers/Cardoso-dev33?label=GitHub&style=social" alt="GitHub" />
+  <a href="https://github.com/Tael33">
+    <img src="https://img.shields.io/github/followers/Tael33?label=GitHub&style=social" alt="GitHub" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@
 📊 GitHub em números
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cardoso-dev33&show_icons=true&theme=github_dark&border_radius=10" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-dev33&layout=compact&theme=github_dark&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tael33&show_icons=true&theme=github_dark&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tael33&layout=compact&theme=github_dark&border_radius=10" width="40%" />
 </p>
 
 <!--
